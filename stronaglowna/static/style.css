@@ -1,0 +1,73 @@
+
+.center {
+  position: relative;
+text-align: center;
+}
+
+.navbar1 {
+  border-radius: 0;
+}
+.napis {
+    height: 10em;
+    position: relative }
+.napis p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+h8 {
+  font-size: 35px;
+  padding:6px;
+  color: white;
+  background: rgb(204, 204, 204); /* Fallback for older browsers without RGBA-support */
+  background: rgba(204, 204, 204, 0.9);
+}
+h7 {
+    color: grey;
+    font-size:35px;
+    padding:5px;
+    letter-spacing: 2px;
+    border-width:2px;
+    border-style:solid;
+}
+
+h9 {
+  letter-spacing: 2px;
+}
+
+.navbar-brand{
+  font-family: 'Arial';
+}
+
+h1,h2 {
+    color: green;
+}
+
+
+
+.page-header {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+.container-realizacje {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.container-kontakt {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
